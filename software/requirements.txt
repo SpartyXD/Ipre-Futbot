@@ -1,8 +1,4 @@
-cv2
-math
+opencv-contrib-python
 numpy
-_thread
-threading
-time
-simple_pid
-socket
+simple-pid
+keyboard

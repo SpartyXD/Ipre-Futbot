@@ -38,8 +38,8 @@ d2_ain2 = Pin(5, Pin.OUT)
 d2_pwma = PWM(Pin(4))
 d2_enc_a = Pin(9, Pin.IN, Pin.PULL_UP)
 d2_enc_b = Pin(10, Pin.IN, Pin.PULL_UP)
-d2_bin1 = Pin(12, Pin.OUT)
-d2_bin2 = Pin(13, Pin.OUT)
+d2_bin1 = Pin(13, Pin.OUT)
+d2_bin2 = Pin(12, Pin.OUT)
 d2_pwmb = PWM(Pin(14))
 
 # ---- Solenoide ----
